@@ -181,6 +181,116 @@
             "name": "terzic-slavonski-brod",
             "type": "http",
             "url": "https://hoermalmeister.github.io/gtfs-rehost/slavonski_brod/slavonski_brod.zip"
+        },
+        {
+            "name": "bajs",
+            "type": "transitland-atlas",
+            "transitland-atlas-id": "f-bajs~zagreb~croatia~grad~gbfs"
+        },
+        {
+            "name": "nextbike-lanterna",
+            "type": "transitland-atlas",
+            "transitland-atlas-id": "f-bike~share~lanterna~croatia~camp~gbfs"
+        },
+        {
+            "name": "nextbike-dalmacija",
+            "type": "transitland-atlas",
+            "transitland-atlas-id": "f-dalmacija~croatia~pitomača~gbfs"
+        },
+        {
+            "name": "nextbike-osijek",
+            "type": "transitland-atlas",
+            "transitland-atlas-id": "f-emobi~croatia~osijek~gbfs"
+        },
+        {
+            "name": "nextbike-drnis",
+            "type": "transitland-atlas",
+            "transitland-atlas-id": "f-grad~drniš~croatia~gbfs"
+        },
+        {
+            "name": "nextbike-ivanic-grad",
+            "type": "transitland-atlas",
+            "transitland-atlas-id": "f-grad~ivanić~croatia~ivanic~gbfs"
+        },
+        {
+            "name": "nextbike-karlovac",
+            "type": "transitland-atlas",
+            "transitland-atlas-id": "f-grad~karlovac~croatia~gbfs"
+        },
+        {
+            "name": "nextbike-krizevci",
+            "type": "transitland-atlas",
+            "transitland-atlas-id": "f-grad~križevci~croatia~gbfs"
+        },
+        {
+            "name": "nextbike-sibenik",
+            "type": "transitland-atlas",
+            "transitland-atlas-id": "f-grad~šibenik~croatia~gbfs"
+        },
+        {
+            "name": "nextbike-sisak",
+            "type": "transitland-atlas",
+            "transitland-atlas-id": "f-grad~sisak~croatia~gbfs"
+        },
+        {
+            "name": "nextbike-slavonski-brod",
+            "type": "transitland-atlas",
+            "transitland-atlas-id": "f-grad~slavonski~brod~croatia~gbfs"
+        },
+        {
+            "name": "nextbike-split",
+            "type": "transitland-atlas",
+            "transitland-atlas-id": "f-grad~split~croatia~gbfs"
+        },
+        {
+            "name": "nextbike-velika-gorica",
+            "type": "transitland-atlas",
+            "transitland-atlas-id": "f-grad~velika~gorica~croatia~gbfs"
+        },
+        {
+            "name": "nextbike-vinkovci",
+            "type": "transitland-atlas",
+            "transitland-atlas-id": "f-grad~vinkovci~croatia~metković~gbfs"
+        },
+        {
+            "name": "nextbike-vukovar",
+            "type": "transitland-atlas",
+            "transitland-atlas-id": "f-grad~vukovar~croatia~gbfs"
+        },
+        {
+            "name": "nextbike-zadar",
+            "type": "transitland-atlas",
+            "transitland-atlas-id": "f-grad~zadar~croatia~gbfs"
+        },
+        {
+            "name": "nextbike-zapresic",
+            "type": "transitland-atlas",
+            "transitland-atlas-id": "f-grad~zaprešić~croatia~gbfs"
+        },
+        {
+            "name": "nextbike-stari-grad",
+            "type": "transitland-atlas",
+            "transitland-atlas-id": "f-hvar~croatia~stari~grad~gbfs"
+        },
+        {
+            "name": "nextbike-jastrebarsko",
+            "type": "transitland-atlas",
+            "transitland-atlas-id": "f-jastrebarsko~croatia~gbfs"
+        },
+        {
+            "name": "nextbike-brinje",
+            "type": "transitland-atlas",
+            "transitland-atlas-id": "f-općina~brinje~croatia~gbfs"
+        },
+        {
+            "name": "porec-bike-share",
+            "type": "transitland-atlas",
+            "transitland-atlas-id": "f-porec~bike~share~croatia~gbfs"
+        },
+        {
+            "name": "nextbike-croatia",
+            "type": "transitland-atlas",
+            "transitland-atlas-id": "f-nextbike~croatia~gbfs"
         }
     ]
 }
